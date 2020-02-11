@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">facebook-login</string>
+    <string name="title_activity_main">facebook-login</string>
+    <string name="package_name">com.xtime.app</string>
+    <string name="custom_url_scheme">com.xtime.app</string>
+</resources>
