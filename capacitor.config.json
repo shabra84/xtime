@@ -1,0 +1,8 @@
+{
+  "appId": "com.xtime.app",
+  "appName": "xtime",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

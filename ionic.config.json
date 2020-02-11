@@ -1,0 +1,7 @@
+{
+  "name": "xtime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
